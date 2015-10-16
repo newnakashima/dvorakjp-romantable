@@ -27,7 +27,7 @@ DvorakJP自体についてはこちら: [DvorakJP](http://www7.plala.or.jp/dvora
 1. `t'u`: `とぅ`などの`'`を利用した拗音が追加
   - ただし、分かりづらい上に`twu`: `とぅ`など、他の入力でも代替可能な拗音もあり、利用価値が不明
 
-デフォルトローマ字テーブルはこちら: [romantable_original.txt](https://github.com/shinespark/dvorak-romantable/blob/master/romantable_original.txt)
+デフォルトローマ字テーブルはこちら: [romantable_original.txt](https://github.com/shinespark/dvorak-romantable/blob/master/test/romantable_original.txt)
 
 ### DvorakJPについて
 
